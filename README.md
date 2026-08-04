@@ -7,7 +7,7 @@
 
 ## 激活
 
-1. 不要插卡，电脑浏览器（建议无痕模式）打开 https://www.giffgaff.com/activate 输入卡片上 6 位激活码，点击 **Activate your SIM**。
+1. 不要插卡，英国代理 IP，电脑浏览器（建议无痕模式）打开 https://www.giffgaff.com/activate 输入卡片上 6 位激活码，点击 **Activate your SIM**。
 ![](https://i.imgur.com/uCsYIdQ.png)
 2. 输入邮箱，点击 **Next**。
 ![](https://i.imgur.com/PUedxya.png)
