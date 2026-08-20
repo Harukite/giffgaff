@@ -22,8 +22,8 @@
 6. 网页下拉至最底部选择 **Pay as you go**，点击 **Continue**。
 ![](https://i.imgur.com/rvdrl0x.png)
 
-7. 选择 10 英镑，点击 **Pay now**，使用外国信用卡（VISA 或 MasterCard）进行充值。\
-注：2026年7月底英国不再支持中国信用卡支付，打开 https://github.com/ssnhd/sim 联系客服购买充值卡，点击 **Or redeem a top-up voucher**，在 **Voucher code** 里输入 16 位充值卡密。
+7. 选择 10 英镑，点击 **Pay now**，使用信用卡（VISA 或 MasterCard）进行充值。\
+注：2026年8月初英国可能不再支持中国信用卡，打开 https://github.com/ssnhd/sim 联系客服购买充值卡，点击 **Or redeem a top-up voucher**，在 **Voucher code** 里输入 16 位充值卡密。
 ![](https://i.imgur.com/BycDwod.png)
 
 8. 填写英文姓名和地址（可以谷歌搜“英国地址生成器”），点击 **Continue**。\
